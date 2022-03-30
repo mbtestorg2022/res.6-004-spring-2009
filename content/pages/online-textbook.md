@@ -103,7 +103,7 @@ Exercises
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 8: Fault Tolerance: Reliable Systems from Unreliable Components** ([PDF](/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/faults_open_5_0.pdf))  
+**Chapter 8: Fault Tolerance: Reliable Systems from Unreliable Components** ({{% resource_link "6b31587e-c59b-1b00-2cb7-a710d9781453" "PDF" %}})  
   Slides of chapter 8 figures ([zipped Keynote]({{< baseurl >}}/resources/faults_figures_key)) ([PPT]({{< baseurl >}}/resources/faults_figures)) ([PDF]({{< baseurl >}}/resources/faults_figures-1))
 {{< tdclose >}}
 
